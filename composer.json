@@ -1,0 +1,16 @@
+{
+    "name": "italo.git/poo",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "ItaloGit\\Poo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Italo Git",
+            "email": "sulamita.italo12@gmail.com"
+        }
+    ],
+    "require": {}
+}
